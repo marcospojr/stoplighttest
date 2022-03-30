@@ -1,0 +1,2 @@
+# stoplighttest
+Testing Stoplight Studio
